@@ -41,7 +41,7 @@ Clone the repository and open `index.html` in your browser:
 
 ```bash
 git clone https://github.com/Viraj-Sahu/Crush.git
-cd interactive-carousel
+cd Crush
 open index.html
 ```
 
