@@ -1,26 +1,66 @@
-Interactive Carousel Website - Personal Slideshow Experience
+# 🎠 Interactive Carousel Website – Personal Slideshow Experience
 
-A smooth, interactive carousel website built with vanilla HTML, CSS, and JavaScript featuring:
+A smooth, interactive carousel website built with **vanilla HTML, CSS, and JavaScript**.
+Showcase personal content, portfolios, or engaging interactive presentations with ease.
 
-✨ Features:
+---
 
-Responsive 3D carousel with smooth animations
-Mouse wheel and touch/drag navigation
-Custom cursor effects (desktop only)
-Mobile-optimized touch controls
-Gradient background with modern styling
-Personal slideshow with images and messages
-🎨 Design:
+## ✨ Features
 
-Dark theme with purple gradient background
-Card-based layout with numbered slides
-Smooth CSS transitions and transforms
-Custom typography with web fonts
-Social media integration (LinkedIn)
-🛠 Tech Stack:
+* Responsive **3D carousel** with smooth animations
+* **Mouse wheel** and **touch/drag** navigation
+* Custom cursor effects *(desktop only)*
+* Mobile-optimized touch controls
+* Gradient background with modern styling
+* Personal slideshow with images and messages
 
-Pure HTML5, CSS3, and JavaScript
-No external dependencies
-Mobile-first responsive design
-Cross-browser compatible
-Perfect for showcasing personal content, portfolios, or creating engaging interactive presentations. The carousel responds to mouse wheel, click, and touch gestures for an intuitive user experience across all devices.
+---
+
+## 🎨 Design
+
+* Dark theme with **purple gradient background**
+* **Card-based layout** with numbered slides
+* Smooth **CSS transitions** and transforms
+* Custom typography with web fonts
+* Social media integration *(LinkedIn)*
+
+---
+
+## 🛠 Tech Stack
+
+* **HTML5**, **CSS3**, and **JavaScript**
+* No external dependencies
+* Mobile-first responsive design
+* Cross-browser compatible
+
+---
+
+## 🚀 Usage
+
+Clone the repository and open `index.html` in your browser:
+
+```bash
+git clone https://github.com/your-username/interactive-carousel.git
+cd interactive-carousel
+open index.html
+```
+
+---
+
+## 📸 Preview
+
+*(Add screenshot or GIF here to showcase the carousel)*
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to improve.
+
+---
+
+## 📬 Contact
+
+Connect with me on [LinkedIn](https://linkedin.com/in/your-profile)
+
+---
